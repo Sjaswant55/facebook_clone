@@ -1,0 +1,14 @@
+.rightbar{
+    width: 100%;
+    top: auto;
+    position: sticky;
+    margin-right: 10px;
+}
+
+
+.rightbarMiddleImg{
+    width: 550px;
+    margin-left: 0;
+    position: static;
+    margin-bottom: 25px;
+}
